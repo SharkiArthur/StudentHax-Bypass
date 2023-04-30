@@ -1,3 +1,6 @@
+PASSWORD IS "student" no capitals.
+Tutorial is on the Discord!  https://discord.gg/qbpM4XYMsB
+
 Go-Guardian Bypass is a Chrome extension that allows students to disable the GoGuardian web filtering system on their school-issued devices. GoGuardian is a popular web filtering system used by many schools to block access to certain websites and online resources that may be deemed inappropriate or distracting for students.
 
 With this extension, students can disable GoGuardian on any webpage they visit, allowing them to access restricted websites and resources that may be necessary for their studies. The extension works by injecting a JavaScript script that disables the GoGuardian functions into every webpage the student visits.
