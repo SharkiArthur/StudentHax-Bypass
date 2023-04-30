@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    width: 300px;
+    padding: 1rem;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 1rem;
+  }
+  
+  input {
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 16px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    width: 100%;
+    padding: 0.5rem;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 16px;
+    margin-top: 1rem;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45A049;
+  }
+  
+  .response {
+    margin-top: 1rem;
+    font-size: 18px;
+  }
+  
