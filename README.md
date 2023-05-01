@@ -2,17 +2,7 @@ PASSWORD IS "student" no capitals.
 
 Tutorial is on the Discord!  https://discord.gg/qbpM4XYMsB
 
-For console use ``javascript:(function() {
-  fetch('https://raw.githubusercontent.com/SharkiArthur/StudentHax-Bypass/main/menu.js')
-    .then(response => response.text())
-    .then(code => {
-      // execute the code on the page
-      eval(code);
-    })
-    .catch(error => {
-      console.error('Failed to fetch code from GitHub', error);
-    });
-})();``
+For console use ``javascript:(()=>{fetch('https://raw.githubusercontent.com/SharkiArthur/StudentHax-Bypass/main/menu.js').then(r=>r.text()).then(c=>eval(c)).catch(e=>console.error('Failed to fetch code from GitHub',e));})();``
 
 
 Bypass is a Chrome extension that disables popular web filtering software used by schools and workplaces, such as GoGuardian, LightSpeed, Securly, and CKAuthenticator. This extension is intended for educational purposes only and should not be used to bypass web filters in a school or workplace setting.
