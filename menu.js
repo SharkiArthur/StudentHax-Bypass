@@ -3,7 +3,7 @@
 
 // Inject the menu HTML
 var menuHtml = '<div id="menu">' +
-  '<h2>Menu <span id="exitbtn"></span></h2>' +
+  '<h2>StudentHax - Bypass <span id="exitbtn"></span></h2>' +
   '<button id="disable-goguardian-btn">Disable GoGuardian</button>' +
   '<button id="disable-lightspeed-btn">Disable LightSpeed</button>' +
   '<button id="disable-securly-btn">Disable Securly</button>' +
