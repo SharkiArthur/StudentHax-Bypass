@@ -22,3 +22,5 @@ Disclaimer
 Attempting to bypass web filtering software is not recommended and may violate school or workplace policies. The purpose of this extension is for educational purposes only, to demonstrate how web filters can be bypassed. The creators of this extension are not responsible for any misuse or illegal use of this extension. Use at your own risk.
 
 StudentHax - Bypass is coming to Chrome Webstore soon!
+
+Credits to LTBEEF for helping me out. (Huge credit to the owner for helping me in DM's)
